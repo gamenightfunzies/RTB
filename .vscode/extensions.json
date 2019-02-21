@@ -1,0 +1,57 @@
+{
+	// See http://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		"CoenraadS.bracket-pair-colorizer-2",
+		"idbartosz.darkpp-italic",
+		"Dart-Code.dart-code",
+		"msjsdiag.debugger-for-chrome",
+		"vscjava.vscode-java-debug",
+		"PeterJausovec.vscode-docker",
+		"formulahendry.docker-explorer",
+		"formulahendry.docker-extension-pack",
+		"alphabotsec.vscode-eclipse-keybindings",
+		"dbaeumer.vscode-eslint",
+		"Dart-Code.flutter",
+		"donjayamanne.githistory",
+		"felipecaputo.git-project-manager",
+		"codezombiech.gitignore",
+		"eamodio.gitlens",
+		"naco-siren.gradle-language",
+		"nhoizey.gremlins",
+		"ecmel.vscode-html-css",
+		"sohibe.java-generate-setters-getters",
+		"vscjava.vscode-java-dependency",
+		"vscjava.vscode-java-pack",
+		"YouMayCallMeV.vscode-java-saber",
+		"vscjava.vscode-java-test",
+		"dbaeumer.jshint",
+		"redhat.java",
+		"GabrielBB.vscode-lombok",
+		"PKief.material-icon-theme",
+		"waderyan.nodejs-extension-pack",
+		"eg2.vscode-npm-script",
+		"christian-kohler.npm-intellisense",
+		"esbenp.prettier-vscode",
+		"jasonnutter.search-node-modules",
+		"liximomo.sftp",
+		"vscjava.vscode-spring-boot-dashboard",
+		"ecmel.vscode-spring-boot",
+		"Pivotal.vscode-spring-boot",
+		"vscjava.vscode-spring-initializr",
+		"karigari.chat",
+		"mauve.terraform",
+		"ms-vscode.vscode-typescript-tslint-plugin",
+		"DotJoshJohnson.xml",
+		"redhat.vscode-yaml",
+		"ritwickdey.live-sass",
+		"robinbentley.sass-indented",
+		"HookyQR.beautify"
+
+		//kubernetes when we have it
+	],
+	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+	"unwantedRecommendations": []
+}
